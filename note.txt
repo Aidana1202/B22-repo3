@@ -2,3 +2,12 @@ We just published our local git repo
 to remote Github.com repository
 Few things happened:
 It automatically created new Remote Repo under your Github.com account
+
+
+now our work will continue locally
+
+1. We added a new file called note.txt
+2.commited the change to local repo
+3. we want this change to be reflected in
+remote repository, so we push local commit to local repository using push origin button
+4. Observe has been added in your repositiry under github.com
