@@ -11,3 +11,7 @@ now our work will continue locally
 3. we want this change to be reflected in
 remote repository, so we push local commit to local repository using push origin button
 4. Observe has been added in your repositiry under github.com
+
+
+How to save after adding some text in sublime?
+Mac users: Command + S
