@@ -15,3 +15,5 @@ remote repository, so we push local commit to local repository using push origin
 
 How to save after adding some text in sublime?
 Mac users: Command + S
+
+We do not have to push one commit at the time
